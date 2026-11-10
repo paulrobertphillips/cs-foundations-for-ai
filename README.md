@@ -1,5 +1,7 @@
 # CS Foundations for AI
 
+Co-Author: OpenAI's GPT-5.1
+
 **Computer Science Foundations for Agentic & Multimodal AI Systems**
 
 ---
